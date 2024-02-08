@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gbf修改器gui", "gbf修改器gui.vcxproj", "{1DCF364B-EA06-4FE6-BF08-E5E2EB6AB77C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DCF364B-EA06-4FE6-BF08-E5E2EB6AB77C}.Debug|x64.ActiveCfg = Debug|x64
+		{1DCF364B-EA06-4FE6-BF08-E5E2EB6AB77C}.Debug|x64.Build.0 = Debug|x64
+		{1DCF364B-EA06-4FE6-BF08-E5E2EB6AB77C}.Release|x64.ActiveCfg = Release|x64
+		{1DCF364B-EA06-4FE6-BF08-E5E2EB6AB77C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB2EFA5B-A2CC-458A-AD10-5D3659245A00}
+	EndGlobalSection
+EndGlobal
